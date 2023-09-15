@@ -1,4 +1,4 @@
-# sofomo_gh
+# ghclient
 
 A new Flutter project.
 
